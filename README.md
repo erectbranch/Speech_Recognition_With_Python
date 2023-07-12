@@ -7,7 +7,7 @@
   </a>
 </h1>
   
-<b>다카시마 료이치 저</b></br>
+<b>다카시마 료이치 저 · 정권우 역</b></br>
 비제이퍼블릭 · 2023년 1월 9일 출시</br>
 [[github](https://github.com/bjpublic/python_speech_recognition)]</b> 
 
@@ -20,6 +20,18 @@
   > 음성인식 기술의 전체적인 흐름과 특징을 이해한다.
 
 </br>
+
+## 🚩 정리한 문서 목록
+
+### 🏷 음성인식 기초
+
+ - [음성인식 배경지식](https://github.com/erectbranch/Speech_Recognition_With_Python/tree/master/ch01%2C02)
+
+   > 음성인식 모델(음향 모델, 발음사전, 언어 모델), 확률 배경지식(사전 확률, 사후 확률, 동시 확률, 베이즈 정리, 확률의 주변화), 
+   
+   > 음성인식 문제 정의(고립단어 인식, 연속 음성인식), 텍스트, 음향 모델, 발음 사전
+
+<br/>
 
 ### Chapter 1 음성인식이란?
 
