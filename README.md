@@ -31,6 +31,12 @@
    
    > 음성인식 문제 정의(고립단어 인식, 연속 음성인식), 텍스트, 음향 모델, 발음 사전
 
+ - [음성 파일의 특성과 푸리에 변환](https://github.com/erectbranch/Speech_Recognition_With_Python/tree/master/ch03/summary01)
+
+   > 채널, 샘플링 주기, 샘플링 주파수, 샘플링 사이즈(비트 심도)
+
+   > 푸리에 변환, 단시간 푸리에 변환, 창 함수(해밍 창)
+
 <br/>
 
 ### Chapter 1 음성인식이란?
